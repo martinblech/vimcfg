@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/mblech/git/gaia/src/tools'
+let g:netrw_dirhist_2='/home/mblech/git/gaia/src'
+let g:netrw_dirhist_3='/home/mblech/git/gaia/src/bindings'
+let g:netrw_dirhist_4='/home/mblech/git/gaia/src/bindings/pygaia'
+let g:netrw_dirhist_5='/home/mblech/git/gaia/src/bindings'
+let g:netrw_dirhist_6='/home/mblech/git/gaia/src'
+let g:netrw_dirhist_7='/home/mblech/git/gaia/src/tools'
+let g:netrw_dirhist_8='/home/mblech/git/gaia/src/tools/cyclops_client'
+let g:netrw_dirhist_9='/Users/mblech/Documents/jsaudio'
