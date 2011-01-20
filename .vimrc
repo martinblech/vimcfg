@@ -15,16 +15,11 @@ autocmd CursorMovedI * if pumvisible() == 0|pclose|endif
 autocmd InsertLeave * if pumvisible() == 0|pclose|endif
 
 " global indentation settings
-set shiftwidth=4 tabstop=4 expandtab smarttab textwidth=79 softtabstop=4
-
-" XML-specific settings
-au FileType xml setl shiftwidth=2 tabstop=2 expandtab smarttab textwidth=79 softtabstop=2
-
-" Python-specific settings
-" au FileType python setl shiftwidth=4 tabstop=4 expandtab smarttab textwidth=79 softtabstop=4
-
-" Java-specific settings
-" au FileType java setl shiftwidth=4 tabstop=4 expandtab smarttab textwidth=79 softtabstop=4
+set tabstop=2
+set softtabstop=2
+set shiftwidth=2
+set expandtab
+set smarttab
 
 " highlight current line
 set cursorline
