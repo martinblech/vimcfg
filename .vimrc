@@ -21,9 +21,6 @@ set shiftwidth=2
 set expandtab
 set smarttab
 
-" highlight current line
-set cursorline
-
 " syntax highliting
 syntax on
 
